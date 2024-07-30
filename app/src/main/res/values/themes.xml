@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizRandomUserGenerator_10121078" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_primary_variant</item>
+        <item name="colorOnPrimary">@color/purple_on_primary</item>
+        <item name="colorSecondary">@color/purple_secondary</item>
+        <item name="colorOnSecondary">@color/purple_on_secondary</item>
+    </style>
+
+    <style name="Theme.QuizRandomUserGenerator_10121078" parent="Base.Theme.QuizRandomUserGenerator_10121078" />
+</resources>
